@@ -21,5 +21,11 @@ public class Test01 {
         System.out.println(allItems);
     }
 
+    @Test
+    public void text2() {
+        int a = 10;
+        a++;
+    }
+
 
 }
